@@ -1,0 +1,41 @@
+# Example URLs for knowledge base scraping
+# Replace these with actual URLs from your chosen universe (e.g., Star Wars, Star Trek, etc.)
+# One URL per line. Lines starting with # are ignored.
+
+# INSTRUCTIONS:
+# 1. Choose a universe (Star Wars, Lord of the Rings, Mass Effect, etc.)
+# 2. Find 30+ articles from the fandom wiki for that universe
+# 3. Include diverse content: characters, locations, technology, events, organizations
+# 4. Paste URLs below (one per line)
+
+# Star Wars Example URLs - Uncommented for testing
+https://starwars.fandom.com/wiki/Darth_Vader
+https://starwars.fandom.com/wiki/Luke_Skywalker
+https://starwars.fandom.com/wiki/Death_Star
+https://starwars.fandom.com/wiki/Tatooine
+https://starwars.fandom.com/wiki/Jedi
+https://starwars.fandom.com/wiki/Sith
+https://starwars.fandom.com/wiki/The_Force
+https://starwars.fandom.com/wiki/Millennium_Falcon
+https://starwars.fandom.com/wiki/Lightsaber
+https://starwars.fandom.com/wiki/Galactic_Republic
+https://starwars.fandom.com/wiki/Galactic_Empire
+https://starwars.fandom.com/wiki/Coruscant
+https://starwars.fandom.com/wiki/Hoth
+https://starwars.fandom.com/wiki/Endor
+https://starwars.fandom.com/wiki/Yoda
+https://starwars.fandom.com/wiki/Obi-Wan_Kenobi
+https://starwars.fandom.com/wiki/Princess_Leia
+https://starwars.fandom.com/wiki/Han_Solo
+https://starwars.fandom.com/wiki/Chewbacca
+https://starwars.fandom.com/wiki/R2-D2
+https://starwars.fandom.com/wiki/C-3PO
+https://starwars.fandom.com/wiki/Stormtrooper
+https://starwars.fandom.com/wiki/TIE_fighter
+https://starwars.fandom.com/wiki/X-wing
+https://starwars.fandom.com/wiki/Rebel_Alliance
+https://starwars.fandom.com/wiki/Clone_Wars
+https://starwars.fandom.com/wiki/Naboo
+https://starwars.fandom.com/wiki/Kamino
+https://starwars.fandom.com/wiki/Mustafar
+https://starwars.fandom.com/wiki/Dagobah

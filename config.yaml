@@ -1,0 +1,24 @@
+# RAG Bot Configuration
+
+embedding:
+  provider: local                # local (sentence-transformers) | openai
+  model: all-MiniLM-L6-v2        # Must match the model used for indexing
+  dim: 384                       # Embedding dimension
+
+index:
+  type: faiss                    # faiss | chroma | qdrant
+  index_path: faiss.index        # Path to FAISS index file
+  metadata_path: chunks_metadata.json  # Path to chunks metadata
+  top_k: 5                       # Number of top results to retrieve
+  score_threshold: 1.2           # Distance threshold (L2) - lower is better
+
+llm:
+  provider: openai               # openai | anthropic | local
+  model: gpt-4o-mini             # OpenAI model name
+  max_tokens: 800                # Maximum tokens in response
+  temperature: 0.2               # Lower = more deterministic
+
+app:
+  few_shot_examples: data/few_shot.json  # Path to few-shot examples
+  log_queries: true              # Log all queries and responses
+  log_path: logs/queries.log     # Path to query log

@@ -1,0 +1,7 @@
+# Скопируйте этот файл как .env и заполните реальными значениями
+
+# OpenAI API Key (обязательно если используете OpenAI LLM)
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Опционально: другие API ключи
+# ANTHROPIC_API_KEY=your_anthropic_key_here
